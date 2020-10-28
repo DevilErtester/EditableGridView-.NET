@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="EditableGridview">
+</Property><Property Name="Solution File" Value="C:\Users\mbrufau\Desktop\EditableGridview\EditableGridview.sln">
+</Property><Property Name="User Options File" Value="C:\Users\mbrufau\Desktop\EditableGridview\EditableGridview.suo">
+</Property><Property Name="Date" Value="viernes, 18 de octubre de 2013">
+</Property><Property Name="Time" Value="17:13">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="EditableGridview.sln" Description="File successfully backed up as C:\Users\mbrufau\Desktop\EditableGridview\Backup\EditableGridview.sln">
+</Event><Event ErrorLevel="0" Project="" Source="EditableGridview.suo" Description="File successfully backed up as C:\Users\mbrufau\Desktop\EditableGridview\Backup\EditableGridview.suo">
+</Event><Event ErrorLevel="0" Project="EditableGridview" Source="EditableGridview.csproj" Description="Project file successfully backed up as C:\Users\mbrufau\Desktop\EditableGridview\Backup\EditableGridview.csproj">
+</Event><Event ErrorLevel="0" Project="EditableGridview" Source="EditableGridview.csproj.user" Description="Project user file successfully backed up as C:\Users\mbrufau\Desktop\EditableGridview\Backup\EditableGridview.csproj.user">
+</Event><Event ErrorLevel="0" Project="EditableGridview" Source="Default.aspx.cs" Description="File successfully backed up as C:\Users\mbrufau\Desktop\EditableGridview\Backup\Default.aspx.cs">
+</Event><Event ErrorLevel="0" Project="EditableGridview" Source="Default.aspx.designer.cs" Description="File successfully backed up as C:\Users\mbrufau\Desktop\EditableGridview\Backup\Default.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="EditableGridview" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\mbrufau\Desktop\EditableGridview\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="EditableGridview" Source="App_Data\Demo1.accdb" Description="File successfully backed up as C:\Users\mbrufau\Desktop\EditableGridview\Backup\App_Data\Demo1.accdb">
+</Event><Event ErrorLevel="0" Project="EditableGridview" Source="Default.aspx" Description="File successfully backed up as C:\Users\mbrufau\Desktop\EditableGridview\Backup\Default.aspx">
+</Event><Event ErrorLevel="0" Project="EditableGridview" Source="Web.config" Description="File successfully backed up as C:\Users\mbrufau\Desktop\EditableGridview\Backup\Web.config">
+</Event><Event ErrorLevel="0" Project="EditableGridview" Source="EditableGridview.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="EditableGridview" Source="EditableGridview.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="EditableGridview.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="EditableGridview.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EditableGridview" Source="EditableGridview.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
